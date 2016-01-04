@@ -1,5 +1,7 @@
 # Android Dynamic Loader
 
+Fragment插件化框架 作者：屠毅敏
+
 Android Dynamic Loader is a plugin system. The host application is like a browser, but instead of load web pages, it load plugins which runs natively on Android system.
 
 You can download the demo from <https://github.com/mmin18/AndroidDynamicLoader/raw/master/host.apk> (35k).
